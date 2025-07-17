@@ -437,9 +437,3 @@ body {
   font-size: 13px;
   margin-top: 10px;
 }
-
-@media (max-width: 600px) {
-  .footer1-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
